@@ -1,9 +1,13 @@
+'''
+This programme is about computing month number based on user input
+'''
 month=input("Enter the month name e.g January")
 
 if month == "Janauary":
   print("1")
+  
 elif month == "Febraury":
-  print("2")
+  print("2") 
 elif month == "March":
   print("3")
 elif month == "April":
